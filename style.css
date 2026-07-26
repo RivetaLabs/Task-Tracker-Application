@@ -1,0 +1,16 @@
+body {
+   font-family: "Roboto", sans-serif;
+}
+
+h1 {
+   font-family: "Poppins", sans-serif;
+}
+
+.done {
+   border: 2px solid green;
+   opacity: 0.6;
+}
+
+.done .card-title {
+   text-decoration: line-through;
+}
